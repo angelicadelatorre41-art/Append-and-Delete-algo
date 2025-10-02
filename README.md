@@ -1,1 +1,1 @@
-# Append-and-Delete-algo
+# Append-and-Delete-algo The function finds the common prefix between s and t, then calculates the number of deletions and appends needed to transform s into t. It returns "Yes" if k is sufficient to perform these operations and any extra operations can be applied in pairs, otherwise "No".
